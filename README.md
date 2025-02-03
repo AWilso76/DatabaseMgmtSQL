@@ -1,4 +1,4 @@
-# Database Management - SQL
+ # Database Management - SQL
 
 This project demonstrates the use of SQL queries to efficiently retrieve and analyze data from a database. The focus is on managing and filtering login attempt records and employee data based on specific conditions. The project showcases how SQL can be used to handle complex data retrieval tasks and highlights the importance of structured query language in database management.
 
@@ -26,13 +26,13 @@ This query retrieves all login attempts made after 6 PM, demonstrating the abili
 ---
 
 # Login Attempts on Two Specific Dates:
-A query designed to extract all login attempts made on two different dates. This highlights SQL’s capability to handle multiple condition-based filtering.
+A query designed to extract all login attempts made on two different dates. This highlights my capability to handle multiple condition-based filtering.
 
 <img width="1000" alt="image" src="https://i.imgur.com/gmYl3tB.png">
 ---
 
 # Login Attempts Excluding a Specific Country (Mexico):
-This query retrieves login attempts from all countries except Mexico, showcasing the use of exclusion conditions in SQL.
+The query retrieves login attempts from all countries except Mexico, showcasing the use of exclusion conditions.
 
 <img width="1000" alt="image" src="https://i.imgur.com/g7jNU9i.png">
 ---
@@ -44,7 +44,7 @@ This query focuses on retrieving records for employees belonging to the Finance 
 ---
 
 # Employees Excluding the Information Technology Department:
-This query excludes employees from the Information Technology department, demonstrating how SQL can be used to manage exclusions at a department level.
+The query excludes employees from the Information Technology department, demonstrating how SQL can be used to manage exclusions at a department level.
 
 <img width="51000" alt="image" src="https://i.imgur.com/v6sE7lD.png">
 
