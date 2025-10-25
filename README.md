@@ -1,4 +1,4 @@
-# 💾 Database Management Using SQL**
+# 💾 Database Management Using SQL
 
 # Overview
 This project demonstrates how to use **SQL queries** to retrieve and analyze data efficiently from relational databases.  
